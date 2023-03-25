@@ -1,5 +1,6 @@
+
 .header {
-    background-color: rgb(177, 173, 173);
+    background-color: rgb(253, 252, 252);
     padding: 30px 40px 10px 40px;
     }
 
@@ -8,5 +9,6 @@
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
+        border-style: solid 1px;
         
     }
